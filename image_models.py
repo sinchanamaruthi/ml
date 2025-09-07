@@ -1,1 +1,1 @@
-# placeholder for image ML models
+# image models placeholder
